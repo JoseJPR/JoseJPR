@@ -16,18 +16,7 @@ Acostumbrado a trabajar con equipos multi-disciplinares, con y sin metodología 
 
 ## 🔧 Tecnologías y herramientas
 
-## 🗂️ Proyectos en NPM
-
-### Slim Demon
-😈 Slim Demon is a micro library that detects changes in the files of your NodeJS application and restart it quickly and automatically.
-
-### Micro IndexedDB
-💎 Micro JavaScript Library for implementation local 💾 Database IndexedDB that is durable and scalable.
-
-### Pretty Console Colors
-🌈 Show your console messages much more visible and intuitive. The terminal much more friendly.
-
-## 📝 OpenSource
+## 📝 Proyectos
 ### <img src="nodejs.svg" alt="PWA Experts" width="20"/> Node.js
 #### Colaborador de WG i18n
 La Comunidad que mantiene y evoluciona NodeJS está llena de profesionales a nivel mundial. Actualmente estoy colaborando activamente en el Working Group i18n ayudando a mejorar la internacionalización de este proyecto OpenSource. Como principales acciones que realizo está la de crear y divulgar contenido sobre esta tecnología mediante mi cuenta en Twitter, Github y Youtube, así como traducir contenido oficial de la web y la documentación.
@@ -44,6 +33,13 @@ Con un bagaje de varios años en el desarrollo de aplicaciones web y aplicacione
 #### Adobe Community Professional
 Adobe Community Professional es un programa basado en la comunidad formada por los clientes de Adobe que comparten su experiencia en el producto con la comunidad de Adobe en todo el mundo. La misión de los profesionales de la comunidad de Adobe es proporcionar un alto nivel de comunicación punto a punto para enseñar y mejorar las habilidades de los clientes de Adobe en todo el mundo.
 
-## 📝 Colaboraciones
+## 📝 Publicaciones
+
+### NPM
+* [Slim Demon](...) 😈 Slim Demon is a micro library that detects changes in the files of your NodeJS application and restart it quickly and automatically.
+* [Micro IndexedDB](...) 💎 Micro JavaScript Library for implementation local 💾 Database IndexedDB that is durable and scalable.
+*[Pretty Console Colors](...) 🌈 Show your console messages much more visible and intuitive. The terminal much more friendly.
+
+### Artículos
 * [Liran Tal | Node.js CLI Apps Best Practices](https://github.com/lirantal/nodejs-cli-apps-best-practices)
 * [Snyk | How to maintain npm dependencies in your project](https://snyk.io/blog/how-to-maintain-npm-dependencies-in-your-project/)
