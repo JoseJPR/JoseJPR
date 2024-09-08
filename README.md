@@ -17,10 +17,9 @@ Acostumbrado a trabajar con equipos multi-disciplinares, con y sin metodología 
 ## 🔧 Tecnologías y herramientas
 
 ### Backend
-NodeJS / PHP
-MongoDB / DynamoDB
-MySQL / PostgreSQL
-PouchDB / Redis
+Node.js, PHP, MongoDB, DynamoDB, MySQL, PostgreSQL, PouchDB, Redis.
+### Frontend
+JavaScript, Typescript, React, Angular, Web Components, PWA, IndexedDB, Workbox, CSS, Scss, Sass.
 
 
 ## 📝 Proyectos y colaboraciones
