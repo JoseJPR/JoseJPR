@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-![X (formerly Twitter) URL](https://img.shields.io/twitter/url?url=https%3A%2F%2Fx.com%2FJoseJ_PR&style=flat-square&logo=x&label=JoseJ_PR&labelColor=%23000000&color=%23000000)
-![Linkedin (formerly Linkedin) URL](https://img.shields.io/linkedin/url?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fjosejpr%2F&style=flat-square&logo=linkedin&label=JoseJ_PR&labelColor=%230A66C2&color=%230A66C2)
-Clear
+![Twitter](https://img.shields.io/website?url=https%3A%2F%2Fx.com%2FJoseJ_PR&down_message=%20%20&style=flat&logo=x&label=JoseJ_PR&labelColor=%23000000&color=%23000000)
+![Linkedin](https://img.shields.io/website?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fjosejpr&down_message=%20%20&style=flat&logo=linkedin&label=JoseJPR&labelColor=%230A66C2&color=%230A66C2)
+
 
 
 
