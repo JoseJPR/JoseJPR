@@ -7,7 +7,7 @@
 
 ## Acerca de mi
 
-⚡️ Team & Tech Lead 🥑 OpenSource & InnerSource ✍️ Node.js i18n Colaborador
+⚡️ Team & Tech Lead 🥑 OpenSource & InnerSource ✍️ Colaborador Node.js
 
 Disfruto trabajando como Desarrollador y Arquitecto de Software. Soy un apasionado del OpenSource, InnerSource, el Performance y del Developer Experience.
 
@@ -17,3 +17,7 @@ Acostumbrado a trabajar con equipos multi-disciplinares, con y sin metodología 
 
 ## 🎁 Proyectos en NPM
 
+## 📝 Colaboraciones
+
+* [Liran Tal | Node.js CLI Apps Best Practices]([https://snyk.io/blog/how-to-maintain-npm-dependencies-in-your-project/](https://github.com/lirantal/nodejs-cli-apps-best-practices))
+* [Snyk | How to maintain npm dependencies in your project](https://snyk.io/blog/how-to-maintain-npm-dependencies-in-your-project/)
