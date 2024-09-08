@@ -19,5 +19,5 @@ Acostumbrado a trabajar con equipos multi-disciplinares, con y sin metodología 
 
 ## 📝 Colaboraciones
 
-* [Liran Tal | Node.js CLI Apps Best Practices]([https://snyk.io/blog/how-to-maintain-npm-dependencies-in-your-project/](https://github.com/lirantal/nodejs-cli-apps-best-practices)
+* [Liran Tal | Node.js CLI Apps Best Practices](https://github.com/lirantal/nodejs-cli-apps-best-practices)
 * [Snyk | How to maintain npm dependencies in your project](https://snyk.io/blog/how-to-maintain-npm-dependencies-in-your-project/)
