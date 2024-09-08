@@ -24,6 +24,8 @@ JavaScript, Typescript, React, Angular, Web Components, PWA, IndexedDB, Workbox,
 React Native, Progressive Web Apps, Apache Cordova, PhoneGap.
 ### QA Code
 ESLint, Jest, BEM, Stylint, Autocannon, Artillery, Clinic, Wdio, Appium, Browserstack, Dependency Strategy.
+### Cloud / Infraestructure
+Google Cloud Platform, Amazon Web Services, Terraform, Docker.
 
 ## 📝 Proyectos y colaboraciones
 
