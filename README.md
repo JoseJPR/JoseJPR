@@ -6,9 +6,9 @@
 [![Github](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2FJoseJPR&up_message=%20&down_message=%20%20&style=flat-square&logo=github&label=JoseJPR&labelColor=%23181717&color=%23181717)](https://github.com/JoseJPR/)
 [![NPM](https://img.shields.io/website?url=https%3A%2F%2Fwww.npmjs.com%2F~josejpr&up_message=%20&up_color=%23CB3837&style=flat-square&logo=npm&label=josejpr&labelColor=%23CB3837&color=%23CB3837)](https://www.npmjs.com/~josejpr)
 
-⚡️ Team & Tech Lead 🥑 OpenSource & InnerSource ✍️ Colaborador Node.js
-
 ## 📝 Acerca de mi
+
+⚡️ Team & Tech Lead 🥑 OpenSource & InnerSource ✍️ Colaborador Node.js
 
 Disfruto trabajando como Desarrollador y Arquitecto de Software. Soy un apasionado del OpenSource, InnerSource, el Performance y del Developer Experience.
 
