@@ -16,6 +16,13 @@ Acostumbrado a trabajar con equipos multi-disciplinares, con y sin metodología 
 
 ## 🔧 Tecnologías y herramientas
 
+### Backend
+NodeJS / PHP
+MongoDB / DynamoDB
+MySQL / PostgreSQL
+PouchDB / Redis
+
+
 ## 📝 Proyectos y colaboraciones
 
 ### <img src="nodejs.svg" alt="PWA Experts" width="20"/> Node.js
