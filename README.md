@@ -2,13 +2,8 @@
 
 ![Twitter](https://img.shields.io/website?url=https%3A%2F%2Fx.com%2FJoseJ_PR&down_message=%20%20&style=flat&logo=x&label=JoseJ_PR&labelColor=%23000000&color=%23000000)
 ![Linkedin](https://img.shields.io/website?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fjosejpr&down_message=%20%20&style=flat&logo=linkedin&label=JoseJPR&labelColor=%230A66C2&color=%230A66C2)
-
-
-
-
-[![Linkedin: josejpr](https://img.shields.io/badge/-josejpr-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/josejpr/)](https://www.linkedin.com/in/josejpr/)
-[![GitHub JoseJPR](https://img.shields.io/github/followers/JoseJPR?label=follow&style=social)](https://github.com/JoseJPR)
-[![Youtube JoseJPR](https://img.shields.io/youtube/followers/JoseJPR?label=follow&style=social)](https://youtube.com/@JoseJPR)
+![Youtube](https://img.shields.io/website?url=https%3A%2F%2Fyoutube.com%2F%40JoseJPR&up_message=%20&down_message=%20%20&style=flat-square&logo=youtube&label=JoseJPR&labelColor=%23FF0000&color=%23FF0000)
+![Github](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2FJoseJPR&up_message=%20&down_message=%20%20&style=flat-square&logo=github&label=JoseJPR&labelColor=%23181717&color=%23181717)
 
 <!--
 **JoseJPR/JoseJPR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
