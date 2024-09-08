@@ -18,6 +18,15 @@ Acostumbrado a trabajar con equipos multi-disciplinares, con y sin metodología 
 
 ## 🗂️ Proyectos en NPM
 
+### Slim Demon
+😈 Slim Demon is a micro library that detects changes in the files of your NodeJS application and restart it quickly and automatically.
+
+### Micro IndexedDB
+💎 Micro JavaScript Library for implementation local 💾 Database IndexedDB that is durable and scalable.
+
+### Pretty Console Colors
+🌈 Show your console messages much more visible and intuitive. The terminal much more friendly.
+
 ## 📝 OpenSource
 ### <img src="nodejs.svg" alt="PWA Experts" width="20"/> Node.js
 #### Colaborador de WG i18n
