@@ -20,7 +20,10 @@ Acostumbrado a trabajar con equipos multi-disciplinares, con y sin metodología 
 Node.js, PHP, MongoDB, DynamoDB, MySQL, PostgreSQL, PouchDB, Redis.
 ### Frontend
 JavaScript, Typescript, React, Angular, Web Components, PWA, IndexedDB, Workbox, CSS, Scss, Sass.
-
+### Mobile
+React Native, Progressive Web Apps, Apache Cordova, PhoneGap.
+### QA Code
+ESLint, Jest, BEM, Stylint, Autocannon, Artillery, Clinic, Wdio, Appium, Browserstack, Dependency Strategy.
 
 ## 📝 Proyectos y colaboraciones
 
