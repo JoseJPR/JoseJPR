@@ -16,7 +16,8 @@ Acostumbrado a trabajar con equipos multi-disciplinares, con y sin metodología 
 
 ## 🔧 Tecnologías y herramientas
 
-## 📝 Proyectos
+## 📝 Proyectos y colaboraciones
+
 ### <img src="nodejs.svg" alt="PWA Experts" width="20"/> Node.js
 #### Colaborador de WG i18n
 La Comunidad que mantiene y evoluciona NodeJS está llena de profesionales a nivel mundial. Actualmente estoy colaborando activamente en el Working Group i18n ayudando a mejorar la internacionalización de este proyecto OpenSource. Como principales acciones que realizo está la de crear y divulgar contenido sobre esta tecnología mediante mi cuenta en Twitter, Github y Youtube, así como traducir contenido oficial de la web y la documentación.
@@ -38,7 +39,7 @@ Adobe Community Professional es un programa basado en la comunidad formada por l
 ### NPM
 * [Slim Demon](...) 😈 Slim Demon is a micro library that detects changes in the files of your NodeJS application and restart it quickly and automatically.
 * [Micro IndexedDB](...) 💎 Micro JavaScript Library for implementation local 💾 Database IndexedDB that is durable and scalable.
-*[Pretty Console Colors](...) 🌈 Show your console messages much more visible and intuitive. The terminal much more friendly.
+* [Pretty Console Colors](...) 🌈 Show your console messages much more visible and intuitive. The terminal much more friendly.
 
 ### Artículos
 * [Liran Tal | Node.js CLI Apps Best Practices](https://github.com/lirantal/nodejs-cli-apps-best-practices)
