@@ -6,8 +6,7 @@
 [![Github](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2FJoseJPR&up_message=%20&down_message=%20%20&style=flat-square&logo=github&label=JoseJPR&labelColor=%23181717&color=%23181717)](https://github.com/JoseJPR/)
 [![NPM](https://img.shields.io/website?url=https%3A%2F%2Fwww.npmjs.com%2F~josejpr&up_message=%20&up_color=%23CB3837&style=flat-square&logo=npm&label=josejpr&labelColor=%23CB3837&color=%23CB3837)](https://www.npmjs.com/~josejpr)
 
-
-## Acerca de mi
+## 📝 Acerca de mi
 
 ⚡️ Team & Tech Lead 🥑 OpenSource & InnerSource ✍️ Colaborador Node.js
 
@@ -17,9 +16,13 @@ Acostumbrado a trabajar con equipos multi-disciplinares, con y sin metodología 
 
 ## 🔧 Tecnologías y herramientas
 
-## 🎁 Proyectos en NPM
+## 🗂️ Proyectos en NPM
 
 ## 📝 OpenSource
+### <img src="nodejs.svg" alt="PWA Experts" width="20"/> Node.js
+#### Colaborador de WG i18n
+La Comunidad que mantiene y evoluciona NodeJS está llena de profesionales a nivel mundial. Actualmente estoy colaborando activamente en el Working Group i18n ayudando a mejorar la internacionalización de este proyecto OpenSource. Como principales acciones que realizo está la de crear y divulgar contenido sobre esta tecnología mediante mi cuenta en Twitter, Github y Youtube, así como traducir contenido oficial de la web y la documentación.
+
 ### <img src="pwa.svg" alt="PWA Experts" width="20"/> PWA Experts I/O
 #### Fundador y Administrador
 El mundo del desarrollo híbrido me hizo entrar de lleno en el mundo Open Source. Con PWA Experts I/O lanzamos una comunidad Open Source en la que hablamos sobre las #PWA y nos enfocamos en tecnologías Web que mejoren la Experiencia de Usuario y las WebApps de las marcas / empresas.
