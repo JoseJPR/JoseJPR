@@ -19,11 +19,15 @@ Acostumbrado a trabajar con equipos multi-disciplinares, con y sin metodología 
 
 ## 🎁 Proyectos en NPM
 
-## 📝 Colaboraciones
-
-PhoneGap Spain | Fundador y Administrador
-
+## 📝 OpenSource
+### <img src="cordova.svg" alt="Apache Cordova" width="20"/> PhoneGap Spain
+#### Fundador y Administrador
 Con un bagaje de varios años en el desarrollo de aplicaciones web y aplicaciones multiplataforma Android e iOS tanto en lenguaje nativo como en PhoneGap, veo la oportunidad de crear una comunidad donde desarrolladores de habla hispana podamos colaborar entre todos y compartir experiencia.
 
+### <img src="adobe.svg" alt="Apache Cordova" width="20"/> Adobe
+#### Adobe Community Professional
+Adobe Community Professional es un programa basado en la comunidad formada por los clientes de Adobe que comparten su experiencia en el producto con la comunidad de Adobe en todo el mundo. La misión de los profesionales de la comunidad de Adobe es proporcionar un alto nivel de comunicación punto a punto para enseñar y mejorar las habilidades de los clientes de Adobe en todo el mundo.
+
+## 📝 Colaboraciones
 * [Liran Tal | Node.js CLI Apps Best Practices](https://github.com/lirantal/nodejs-cli-apps-best-practices)
 * [Snyk | How to maintain npm dependencies in your project](https://snyk.io/blog/how-to-maintain-npm-dependencies-in-your-project/)
