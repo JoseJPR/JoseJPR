@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-[![Twitter: JoseJ_PR](https://img.shields.io/twitter/follow/JoseJ_PR?style=social)](https://twitter.com/JoseJ_PR)
+[![Twitter: JoseJ_PR](https://img.shields.io/twitter/url/JoseJ_PR?style=social)](https://twitter.com/JoseJ_PR)
 [![Linkedin: josejpr](https://img.shields.io/badge/-josejpr-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/josejpr/)](https://www.linkedin.com/in/josejpr/)
 [![GitHub JoseJPR](https://img.shields.io/github/followers/JoseJPR?label=follow&style=social)](https://github.com/JoseJPR)
 [![Youtube JoseJPR](https://img.shields.io/youtube/followers/JoseJPR?label=follow&style=social)](https://youtube.com/@JoseJPR)
