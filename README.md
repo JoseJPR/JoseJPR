@@ -20,7 +20,7 @@ Acostumbrado a trabajar con equipos multi-disciplinares, con y sin metodología 
 ## 🎁 Proyectos en NPM
 
 ## 📝 OpenSource
-### <img src="pwa.svg" alt="Apache Cordova" width="20"/> PWA Experts I/O
+### <img src="pwa.svg" alt="PWA Experts" width="20"/> PWA Experts I/O
 #### Fundador y Administrador
 El mundo del desarrollo híbrido me hizo entrar de lleno en el mundo Open Source. Con PWA Experts I/O lanzamos una comunidad Open Source en la que hablamos sobre las #PWA y nos enfocamos en tecnologías Web que mejoren la Experiencia de Usuario y las WebApps de las marcas / empresas.
 
