@@ -16,7 +16,7 @@ Acostumbrado a trabajar con equipos multi-disciplinares, con y sin metodología 
 
 ### 🔧 Tecnologías y herramientas
 
-Estas son algunas con las que trabajado en mayor o menor medida estos últimos años.
+Estas son algunas con las que trabajado en mayor o menor medida:
 
 #### 🏗️ Frontend y Backend
 Node.js, Python, JavaScript, Typescript, CSS, Sass, React y Angular.
