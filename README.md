@@ -6,7 +6,7 @@
 [![Github](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2FJoseJPR&up_message=%20&down_message=%20%20&style=flat-square&logo=github&label=JoseJPR&labelColor=%23181717&color=%23181717)](https://github.com/JoseJPR/)
 [![NPM](https://img.shields.io/website?url=https%3A%2F%2Fwww.npmjs.com%2F~josejpr&up_message=%20&up_color=%23CB3837&style=flat-square&logo=npm&label=josejpr&labelColor=%23CB3837&color=%23CB3837)](https://www.npmjs.com/~josejpr)
 
-### 📝 Acerca de mi
+### 🤓 Acerca de mi
 
 #### ⚡️ Team & Tech Lead 🥑 OpenSource & InnerSource ✍️ Colaborador Node.js
 
@@ -22,16 +22,16 @@ Estas son algunas con las que trabajado en mayor o menor medida:
 Node.js, Python, JavaScript, Typescript, CSS, Sass, React y Angular.
 #### 📱 Mobile
 React Native, Expo EAS, PWA, Cordova / PhoneGap, Wdio, Appium y Browserstack.
-#### 🐛 CI / CD
+#### 🐙 CI / CD
 ESLint, Stylint, Jest, Autocannon, Clinic, Jenkins y Github Actions.
 #### ☁️ Cloud / Infraestructure
 Google Cloud Platform, Amazon Web Services, Terraform y Docker.
-#### 🏗️ Persistencia
+#### 🗄️ Persistencia
 MongoDB, DynamoDB, MySQL, PostgreSQL, PouchDB, Redis, IndexedDB y Workbox.
 #### 📈 Datos
 Databricks.
 
-### 📝 Proyectos y colaboraciones
+### 💪 Proyectos y colaboraciones
 
 #### <img src="nodejs.svg" alt="PWA Experts" width="14"/> Node.js | Colaborador de WG i18n
 Colaboro en el Working Group i18n ayudando a mejorar la internacionalización de este proyecto OpenSource.
