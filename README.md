@@ -16,34 +16,34 @@ Acostumbrado a trabajar con equipos multi-disciplinares, con y sin metodología 
 
 ### 🔧 Tecnologías y herramientas
 
-#### 🏗️ Backend
-Node.js, Python, PHP, MongoDB, DynamoDB, MySQL, PostgreSQL, PouchDB y Redis.
-#### 💻 Frontend
-JavaScript, Typescript, React, Angular, PWA, IndexedDB, Workbox, CSS y Sass.
+Estas son algunas con las que trabajado en mayor o menor medida estos últimos años.
+
+#### 🏗️ Frontend y Backend
+Node.js, Python, JavaScript, Typescript, CSS, Sass, React y Angular.
 #### 📱 Mobile
-React Native, Expo EAS, Progressive Web Apps, Apache Cordova / PhoneGap y Expo EAS.
-#### 🐛 QA Code
-ESLint, Jest, BEM, Stylint, Autocannon, Clinic, Wdio, Appium, Browserstack.
-#### 🐙 CI/CD
-Jenkins y Github Actions.
+React Native, Expo EAS, PWA, Cordova / PhoneGap, Wdio, Appium y Browserstack.
+#### 🐛 CI / CD
+ESLint, Stylint, Jest, Autocannon, Clinic, Jenkins y Github Actions.
 #### ☁️ Cloud / Infraestructure
 Google Cloud Platform, Amazon Web Services, Terraform y Docker.
-#### 📈 Data
+#### 🏗️ Persistencia
+MongoDB, DynamoDB, MySQL, PostgreSQL, PouchDB, Redis, IndexedDB y Workbox.
+#### 📈 Datos
 Databricks.
 
 ### 📝 Proyectos y colaboraciones
 
 #### <img src="nodejs.svg" alt="PWA Experts" width="14"/> Node.js | Colaborador de WG i18n
-La Comunidad que mantiene y evoluciona NodeJS está llena de profesionales a nivel mundial. Actualmente estoy colaborando activamente en el Working Group i18n ayudando a mejorar la internacionalización de este proyecto OpenSource. Como principales acciones que realizo está la de crear y divulgar contenido sobre esta tecnología mediante mi cuenta en Twitter, Github y Youtube, así como traducir contenido oficial de la web y la documentación.
+Colaboro en el Working Group i18n ayudando a mejorar la internacionalización de este proyecto OpenSource.
 
 #### <img src="pwa.svg" alt="PWA Experts" width="14"/> PWA Experts I/O | Fundador y Administrador
-El mundo del desarrollo híbrido me hizo entrar de lleno en el mundo Open Source. Con PWA Experts I/O lanzamos una comunidad Open Source en la que hablamos sobre las #PWA y nos enfocamos en tecnologías Web que mejoren la Experiencia de Usuario y las WebApps de las marcas / empresas.
+Con PWA Experts I/O era una comunidad Open Source en la que hablábamos sobre las PWAs y nos enfocamos en tecnologías Web que mejoren la experiencia de esuario o el performance entre otros.
 
 #### <img src="cordova.svg" alt="Apache Cordova" width="14"/> PhoneGap Spain | Fundador y Administrador
-Con un bagaje de varios años en el desarrollo de aplicaciones web y aplicaciones multiplataforma Android e iOS tanto en lenguaje nativo como en PhoneGap, veo la oportunidad de crear una comunidad donde desarrolladores de habla hispana podamos colaborar entre todos y compartir experiencia.
+Phonegap Spain era una comunidad OpenSource creada por y para devs con la idea de poder compartir experiencias y conocimientos con el desarrollo mobile.
 
 #### <img src="adobe.svg" alt="Apache Cordova" width="14"/> Adobe | Community Professional
-Adobe Community Professional es un programa basado en la comunidad formada por los clientes de Adobe que comparten su experiencia en el producto con la comunidad de Adobe en todo el mundo. La misión de los profesionales de la comunidad de Adobe es proporcionar un alto nivel de comunicación punto a punto para enseñar y mejorar las habilidades de los clientes de Adobe en todo el mundo.
+Adobe Community Professional era un programa con el que mostrar su experiencia en los productos con la comunidad de Adobe en todo el mundo. La misión era la de enseñar y mejorar las habilidades de los clientes de Adobe en todo el mundo.
 
 ### 📝 Publicaciones
 
