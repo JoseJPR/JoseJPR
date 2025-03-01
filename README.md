@@ -10,9 +10,9 @@
 
 #### ⚡️ Team & Tech Lead 🥑 OpenSource & InnerSource ✍️ Colaborador Node.js
 
-Disfruto trabajando como Desarrollador y Arquitecto de Software. Soy un apasionado del OpenSource, InnerSource, el Performance y del Developer Experience.
+Disfruto creando soluciones tech como Desarrollador y Tech Lead. Soy un apasionado del OpenSource, InnerSource, el Performance y del Developer Experience.
 
-Acostumbrado a trabajar con equipos multi-disciplinares, con y sin metodología XP o SCRUM, donde he tenido la oportunidad de aportar conocimientos técnicos como desarrollador y arquitecto bajo un marco de buenas prácticas aplicando: SOLID, TDD, DDD o Clean Architecture entre otros en cada fase de proyecto/producto con entrega e integración continua.
+Acostumbrado a trabajar con equipos de distintos perfiles, con y sin metodología ágiles, donde he tenido la oportunidad de aportar conocimientos técnicos como desarrollador y director técnico bajo un marco de buenas prácticas aplicando arquitecturas limpias, desacopladas y testables con integración continua, entre otros, en cada fase del proyecto/producto.
 
 ### 🔧 Tecnologías y herramientas
 
