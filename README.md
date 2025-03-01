@@ -37,7 +37,7 @@ Databricks.
 Colaboro en el Working Group i18n ayudando a mejorar la internacionalización de este proyecto OpenSource.
 
 #### <img src="pwa.svg" alt="PWA Experts" width="14"/> PWA Experts I/O | Fundador y Administrador
-Con PWA Experts I/O era una comunidad Open Source en la que hablábamos sobre las PWAs y nos enfocamos en tecnologías Web que mejoren la experiencia de esuario o el performance entre otros.
+Con PWA Experts I/O era una comunidad Open Source en la que hablábamos sobre las PWAs y nos enfocamos en tecnologías Web que mejoren la experiencia de usuario o el performance entre otros.
 
 #### <img src="cordova.svg" alt="Apache Cordova" width="14"/> PhoneGap Spain | Fundador y Administrador
 Phonegap Spain era una comunidad OpenSource creada por y para devs con la idea de poder compartir experiencias y conocimientos con el desarrollo mobile.
