@@ -34,7 +34,7 @@ Databricks.
 ### 💪 Proyectos y colaboraciones
 
 #### <img src="nodejs.svg" alt="PWA Experts" width="14"/> Node.js | Colaborador de WG i18n
-Colaboro en el Working Group i18n ayudando a mejorar la internacionalización de este proyecto OpenSource.
+Colaboré en el Working Group i18n ayudando a mejorar la internacionalización de este proyecto OpenSource.
 
 #### <img src="pwa.svg" alt="PWA Experts" width="14"/> PWA Experts I/O | Fundador y Administrador
 Con PWA Experts I/O era una comunidad Open Source en la que hablábamos sobre las PWAs y nos enfocamos en tecnologías Web que mejoren la experiencia de usuario o el performance entre otros.
